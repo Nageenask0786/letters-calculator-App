@@ -1,0 +1,53 @@
+/* Write your code here. */
+.container {
+  background-color: white;
+  min-height: 100vh;
+}
+.bg-container {
+  background-color: #1d976c;
+  display: flex;
+  min-height: 90vh;
+  justify-content: center;
+  margin: 50px;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 35px;
+  padding-left: 30px;
+}
+.para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding-left: 30px;
+  font-size: 14px;
+}
+input {
+  border-width: 1px;
+  border-color: #ffffff;
+  margin-left: 30px;
+  border-radius: 4px;
+  height: 30px;
+  width: 400px;
+}
+.card {
+  background-color: #ffffff;
+  margin-left: 30px;
+  height: 40px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  border-radius: 4px;
+}
+.letters-count {
+  font-family: 'Roboto';
+  color: #1d976c;
+  font-size: 15px;
+}
+.image {
+  height: 500px;
+  width: 400px;
+}
